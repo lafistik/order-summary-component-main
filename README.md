@@ -19,9 +19,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./order-summary-component.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/lafistik/order-summary-component-main]
+- Live Site URL: [https://lafistik.github.io/order-summary-component-main]
